@@ -31,7 +31,7 @@ Take a peek at my Customer Shopping Dashboard project! It's like a magic window 
 
 📧 Email: [dimatimadiba@gmail.com](mailto:dimatimadiba@gmail.com)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/madiba-dimati](https://www.linkedin.com/in/madiba-dimati-)
+🔗 LinkedIn: [https://www.linkedin.com/in/madiba-dimati-563221280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/madiba-dimati-)
 
 ## Join the Fun!
 
