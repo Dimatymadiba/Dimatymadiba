@@ -26,6 +26,7 @@ I'm a curious explorer with a knack for unraveling the secrets hidden within dat
 ### Customer Shopping Dashboard
 
 Take a peek at my Customer Shopping Dashboard project! It's like a magic window into the world of consumer behavior, where we explore trends and preferences in a fun and interactive way.
+![power bi chat](https://github.com/Dimatymadiba/Customer-shopping-dashboard/assets/160989746/34dda12b-5138-4ec3-aa5e-f1d040627d39)
 
 ## Let's Connect
 
